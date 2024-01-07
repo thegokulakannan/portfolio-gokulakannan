@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-gokulakannan/static/css/main.a9388edb.css",
+    "main.js": "/portfolio-gokulakannan/static/js/main.1ae30149.js",
+    "index.html": "/portfolio-gokulakannan/index.html",
+    "main.a9388edb.css.map": "/portfolio-gokulakannan/static/css/main.a9388edb.css.map",
+    "main.1ae30149.js.map": "/portfolio-gokulakannan/static/js/main.1ae30149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9388edb.css",
+    "static/js/main.1ae30149.js"
+  ]
+}
